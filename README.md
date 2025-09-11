@@ -16,20 +16,39 @@ Neeche icons aur graph dono ke through meri progress dikh rahi hai 👇
 ## 📊 Progress Journey (Graph View)  
 
 ```mermaid
-graph TD
-  A[Start 🚀] --> B[HTML ✅]
-  B --> C[CSS ✅]
-  C --> D[JavaScript ✅]
-  D --> E[Tailwind ✅]
-  E --> F[React ⚛️ ✅]
-  F --> G[GSAP 🎞️ 🔶]
-  G --> H[Node.js 🟩 🔶]
-  H --> I[Express 🚂 🔶]
-  I --> J[MongoDB 🍃 🔶]
-  J --> K[C 💻 ✅]
-  K --> L[C++ 💠 ✅]
-  L --> M[Java ☕ ✅]
-  M --> N[Python 🐍 ✅]
-  N --> O[XML 📰 ✅]
-  O --> P[PHP 🐘 ✅]
-  P --> Q[LLMs 🤖 🔶]
+graph LR
+  subgraph Frontend 🌐
+    A1[HTML ✅]
+    A2[CSS ✅]
+    A3[JavaScript ✅]
+    A4[Tailwind ✅]
+    A5[React ⚛️ ✅]
+    A6[GSAP 🎞️ 🔶]
+  end
+
+  subgraph Backend ⚙️
+    B1[Node.js 🟩 🔶]
+    B2[Express 🚂 🔶]
+    B3[MongoDB 🍃 🔶]
+    B4[PHP 🐘 ✅]
+  end
+
+  subgraph Core 👨‍💻
+    C1[C 💻 ✅]
+    C2[C++ 💠 ✅]
+    C3[Java ☕ ✅]
+    C4[Python 🐍 ✅]
+    C5[XML 📰 ✅]
+  end
+
+  subgraph AI 🤖
+    D1[LLMs 🔶]
+  end
+
+  %% Connections
+  A3 --> A5
+  A5 --> B1
+  B1 --> B3
+  C2 --> B1
+  D1 --> A5
+
