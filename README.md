@@ -13,11 +13,11 @@ Neeche icons aur graph dono ke through meri progress dikh rahi hai 👇
 
 ---
 
-## 📊 Progress Journey (Graph View)  
+## 📊 Progress Journey (Graph View)
 
 ```mermaid
 graph LR
-  subgraph Frontend 🌐
+  subgraph Frontend
     A1[HTML ✅]
     A2[CSS ✅]
     A3[JavaScript ✅]
@@ -26,22 +26,22 @@ graph LR
     A6[GSAP 🎞️ 🔶]
   end
 
-  subgraph Backend ⚙️
+  subgraph Backend
     B1[Node.js 🟩 🔶]
-    B2[Express 🚂 🔶]
+    B2[Express 🔶]
     B3[MongoDB 🍃 🔶]
-    B4[PHP 🐘 ✅]
+    B4[PHP ✅]
   end
 
-  subgraph Core 👨‍💻
-    C1[C 💻 ✅]
-    C2[C++ 💠 ✅]
-    C3[Java ☕ ✅]
-    C4[Python 🐍 ✅]
-    C5[XML 📰 ✅]
+  subgraph Core
+    C1[C ✅]
+    C2[C++ ✅]
+    C3[Java ✅]
+    C4[Python ✅]
+    C5[XML ✅]
   end
 
-  subgraph AI 🤖
+  subgraph AI
     D1[LLMs 🔶]
   end
 
