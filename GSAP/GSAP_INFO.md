@@ -7,9 +7,9 @@ I HAVE COVERED THE **GSAP BASICS TO INTERMEDIATE ANIMATIONS** IN THIS FOLDER.
 
 ## 📚 Topics Covered  
 
-- ✨ `to()`  
-- ✨ `from()`  
-- ✨ `fromTo()`  
+- ✨ **to()**
+- ✨ **from()** 
+- ✨ **fromTo()**
 - 📜 **ScrollTrigger**  
 - 📝 **Text Animations** 
 - 🔄 **Stagger** 
