@@ -7,7 +7,7 @@ Neeche icons aur graph dono ke through meri progress dikh rahi hai 👇
 
 ## 🛠️ Technologies Learned  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,threejs,mongodb,express,nodejs,cpp,c,java,python,postman,php,vite,vscode,npm,mysql,django.bootstrap)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,threejs,mongodb,express,nodejs,cpp,c,java,python,postman,php,vite,vscode,npm,mysql,django,bootstrap)](https://skillicons.dev)  
 
 ✅ = Completed | 🔶 = Learning  
 
@@ -43,6 +43,7 @@ graph LR
 
   subgraph AI
     D1[LLMs 🔶]
+    D2[Data Science 🔶]
   end
 
   %% Connections
@@ -52,4 +53,6 @@ graph LR
   B2 --> B3
   C4 --> D1
   D1 --> A5
+  D2 --> A5
+
 
