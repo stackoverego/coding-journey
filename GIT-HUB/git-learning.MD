@@ -1,8 +1,8 @@
 # 🌟 LEARNING GITHUB BASICS
 
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/YOUR_REPO?color=blue&logo=github)  
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO?color=green&logo=git)  
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=social)
+![Repo Size](https://img.shields.io/github/repo-size/stackoverego/coding-journey)
+![Last Commit](https://img.shields.io/github/last-commit/stackoverego/coding-journey)
+![Stars](https://img.shields.io/github/stars/stackoverego/coding-journey)
 
 ---
 
