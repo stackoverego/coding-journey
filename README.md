@@ -24,6 +24,7 @@ graph LR
     A4[Tailwind ✅]
     A5[React ⚛️ ✅]
     A6[GSAP 🎞️ 🔶]
+   
   end
 
   subgraph Backend
@@ -31,6 +32,7 @@ graph LR
     B2[Express 🔶]
     B3[MongoDB 🍃 🔶]
     B4[PHP ✅]
+    B5[DJango 🔶]
   end
 
   subgraph Core
@@ -54,5 +56,6 @@ graph LR
   C4 --> D1
   D1 --> A5
   C4 --> D2
+  C4 --> B5
 
 
