@@ -7,7 +7,7 @@ Neeche icons aur graph dono ke through meri progress dikh rahi hai 👇
 
 ## 🛠️ Technologies Learned  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,gsap,mongodb,express,nodejs,cpp,c,java,python,xml,php)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,threejs,mongodb,express,nodejs,cpp,c,java,python,postman,php,vite,vscode,npm,mysql,django.bootstrap)](https://skillicons.dev)  
 
 ✅ = Completed | 🔶 = Learning  
 
