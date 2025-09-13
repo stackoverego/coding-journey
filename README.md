@@ -48,7 +48,8 @@ graph LR
   %% Connections
   A3 --> A5
   A5 --> B1
-  B1 --> B3
-  C2 --> B1
+  B1 --> B2
+  B2 --> B3
+  C4 --> D1
   D1 --> A5
 
