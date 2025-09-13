@@ -11,7 +11,14 @@ SETUP
 
 UI DESIGN 
 1. create the component folder. and a navbar file.
+inside the navbar.jsx file
+- imported required gsap and scrolltrigger and registered the ScrollTrigger Plugin 
+- then we create the timeline and used fromto method on it.
+inside the main code we have used map function to get all the content from constants folder and index.js.
 
+2. create the hero.jsx file now
+- import it in app.js under navbar tag 
+-then 
 
 
 

@@ -1,5 +1,5 @@
 import React from "react";
-import {navLinks} from "./constants/index.js";
+import {navLinks} from "../../constants/index.js";
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
 import { ScrollTrigger } from "gsap/all";
@@ -30,7 +30,7 @@ const Navbar = () => {
         <ul>
             {navLinks.map(link => (
                 <li key={link.id}>
-                    <a href={`#${link.id}`}>{link.title}</a> 
+                    <a href={`/${link.id}`}>{link.title}</a> 
                 </li>
             ))}
         </ul>
