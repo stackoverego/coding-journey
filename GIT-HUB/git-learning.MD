@@ -57,7 +57,26 @@ git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
 
 ---
 
-✅ **5. PUSH INTO GITHUB**
+✅ **5. CHANGE REPO**
+-  whenever you have to change the repo you have to use 
+```bash
+git remote set-url origin <NEW_URL>
+```
+- then again start from `git add .` commands
+
+---
+
+✅ **6. CHECK CONNECTED REPO**
+-  whenever you are forgot or confused and want to know in which repo you are currently working in. 
+```bash
+git remote -v
+```
+- this will give you the link of repo you are working in.
+
+---
+
+
+✅ **7. PUSH INTO GITHUB**
 
 ```bash
 git push -u origin main
@@ -87,6 +106,9 @@ node_modules/
 - ⚠️ this process should be done before staging the project.
 
 ---
+
+
+
 
 ## 🧠 Notes:
 
