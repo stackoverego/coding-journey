@@ -18,4 +18,4 @@ I HAVE COVERED THE **GSAP BASICS TO INTERMEDIATE ANIMATIONS** IN THIS FOLDER.
 ---
 
 ## 🗂️ Folder Structure  
-WILL BE UPDATED SOON
+1. MOJITO FRONTEND LIVE :- https://mojito-gsap-website-eta.vercel.app/
