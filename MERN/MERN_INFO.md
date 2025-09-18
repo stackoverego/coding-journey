@@ -21,11 +21,11 @@ I HAVE COVERED THE **FULL STACK DEVELOPMENT (MERN)** IN THIS FOLDER.
 
 ## 🗂️ Folder Structure  
 
-1. **client/** → React frontend (Vite + Tailwind)  
-2. **server/** → Node + Express backend  
+1. **frontend/** → React frontend (Vite + Tailwind)  
+2. **backend/** → Node + Express backend  
 3. **routes/** → API routes  
 4. **models/** → MongoDB schemas  
-5. **controllers/** → Business logic  
+5. **controllers/** → Business logic functions of routes 
 6. **config/** → DB & environment setup  
 7. **utils/** → Helper functions / middleware  
 
@@ -33,7 +33,7 @@ I HAVE COVERED THE **FULL STACK DEVELOPMENT (MERN)** IN THIS FOLDER.
 
 ## 🔗 Live Demo  
 
-- (Add your live demo link here if deployed)
+PROJECT UBER CLONE -(WORKING ON.....)
 
 ---
 
