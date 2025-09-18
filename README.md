@@ -24,6 +24,7 @@ graph LR
     A4[Tailwind ✅]
     A5[React ⚛️ ✅]
     A6[GSAP 🎞️ 🔶]
+    A7[THREE.JS 🎥 🔶]
    
   end
 
@@ -51,10 +52,13 @@ graph LR
   %% Connections
   A3 --> A5
   A5 --> B1
+  A3 --> A6
+  A3 --> A7
   B1 --> B2
   B2 --> B3
   C4 --> D1
   C4 --> D2
   C4 --> B5
+  
 
 
