@@ -5,6 +5,11 @@
 ![Stars](https://img.shields.io/github/stars/stackoverego/coding-journey)
 
 ---
+✅ ** To clear the screen inside the git bash**
+
+```bash
+clear
+```
 
 ## 🚀 How to Upload a Project to GitHub
 
