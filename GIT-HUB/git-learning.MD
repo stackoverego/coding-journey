@@ -88,7 +88,19 @@ git push -u origin main
 
 ---
 
-✅ **6. ADD GITIGNORE FILE**
+
+✅ **7. REMOVE FILES FROM STAGGING**
+
+```bash
+git reset ( for all files )
+git reset <filename>
+```
+
+- 🌿 if you want to unstage the files after the add command .
+
+---
+
+✅ **8. ADD GITIGNORE FILE**
 
 ```bash
 touch .gitignore
