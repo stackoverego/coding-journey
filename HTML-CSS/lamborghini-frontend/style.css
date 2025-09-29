@@ -1,0 +1,143 @@
+@font-face {
+    font-family: 'heading';
+    src: url(./media/Milker.otf);
+}
+@font-face {
+    font-family:'speed';
+    src: url(./media/ARCADE_I.TTF);
+}
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+.nav{
+    padding-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'heading';
+    font-size: 24px;
+}
+.navlogo{
+    display: flex;
+}
+.half{
+    color: red;
+}
+
+.divcontent{
+    display: flex;
+    gap:30px;
+}
+.header{
+    margin-top: 100px;
+    height: 400px;
+    display: flex;
+}
+.header .left{
+    display: flex;
+    justify-content: right;
+    padding-right: 5px;
+    width: 50%;
+    background-color: white;
+}
+#headeh1{
+    text-align: left;
+    font-size: 84px;
+    font-family: 'heading';
+}
+.blacksea{
+    color: black;
+}
+
+.leftcontent {
+    margin-top: 90px;
+    font-family: 'heading';
+    font-size: 20px;
+    color: black;
+    text-align: right;
+
+}
+.leftcontent h3{
+    margin-right: 10px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+   font-weight: 700;
+}
+
+.header .right{
+    display: flex;
+    padding-left: 5px;
+    width: 50%;
+    background-color: red;
+    color: white;
+}
+
+.models1{
+    display: flex;
+    margin-top: 100px;
+    background-color: white;
+    height: 500px;
+}
+.tagline1{
+    font-size: 90px;
+    font-family: "heading";
+}
+.tagline2{
+
+    font-size: 85px;
+    font-family: "heading";
+}
+.models1content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.models1content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.models2{
+    display: flex;
+    margin-top: 100px;
+    background-color: rgb(255, 0, 0);
+    height: 470px;
+    gap:19.5px;
+}
+.models2content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btndis1{
+    margin-top: 40px;
+    height: 55px;
+    width: 220px;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    border-radius: 8px;
+}
+
+.btndis2{
+    height: 99px;
+    width: 220px;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    border-radius: 8px;
+}
